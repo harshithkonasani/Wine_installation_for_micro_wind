@@ -1,4 +1,4 @@
-# Wine_installation_using_micro_wind
+# Wine_installation_for_micro_wind
 This repository has steps for installing wine_software in Ubuntu
 
 ## Install the Desktop.rar file attached and extract them. 
